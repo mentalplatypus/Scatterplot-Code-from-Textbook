@@ -6,4 +6,4 @@ A D3 scatterplot of gas prices per gallon from 2000 to 2020, adjusted for inflat
 
 Also on CodePen: https://codepen.io/mentalplatypus/pen/wvgmbEx
 
-More projects by [David Wang](https://mentalplatypus.github.io/).
+Part of [David Wang's portfolio](https://mentalplatypus.github.io/).
