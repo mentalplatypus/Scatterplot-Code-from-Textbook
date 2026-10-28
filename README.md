@@ -1,4 +1,7 @@
-# [4] Scatterplot (code from textbook)
+# Gas Prices per Gallon, 2000–2020
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mentalplatypus/pen/wvgmbEx](https://codepen.io/mentalplatypus/pen/wvgmbEx).
+**Live:** https://codepen.io/mentalplatypus/pen/wvgmbEx
 
+A D3 scatterplot of gas prices per gallon from 2000 to 2020, adjusted for inflation, built from a textbook example.
+
+More projects by [David Wang](https://mentalplatypus.github.io/).
